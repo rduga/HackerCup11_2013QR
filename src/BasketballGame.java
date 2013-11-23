@@ -1,5 +1,4 @@
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.*;
 
@@ -11,7 +10,48 @@ import java.util.*;
  */
 public class BasketballGame {
 
+    private static class PlayerNameComparator implements Comparator<PlayerInfo> {
 
+        public PlayerNameComparator() {}
+
+        @Override
+        public int compare(PlayerInfo o1, PlayerInfo o2) {
+            return o1.name.compareTo(o2.name);
+        }
+    }
+
+    private static class PlayerInfo implements Comparable<PlayerInfo> {
+
+        public static final int PRORITY_COUNT = 15; // priority range is: 0-14
+
+        public PlayerInfo(int priority, String name) {
+            this.priority = priority;
+            this.name = name;
+        }
+
+        public String name;
+        public int priority;
+        public int time;
+
+        public int getPos() {
+            // mapping user into time slice of size PRORITY_COUNT
+            return time * PRORITY_COUNT + priority;
+        }
+
+        @Override
+        public int compareTo(PlayerInfo o) {
+            return Integer.compare(getPos(), o.getPos());
+        }
+
+        @Override
+        public String toString() {
+            return "PlayerInfo{" +
+                    "name='" + name + '\'' +
+                    ", priority=" + priority +
+                    ", time=" + time +
+                    '}';
+        }
+    }
 
     public static void main(String[] args) throws Exception {
 
@@ -34,8 +74,9 @@ public class BasketballGame {
             int M = scanner.nextInt(); // minutes <= 120
             int P = scanner.nextInt(); // players playing at a time
 
-            System.out.println(String.format("%d mins:%d pattime:%d", N, M, P));
+//            System.out.println(String.format("%d mins:%d pattime:%d", N, M, P));
 
+            // tree sets help us keep the collections instantly sorted
             TreeMap<Integer, String> players = new TreeMap<Integer, String>();
 
             for (int j = 0; j != N; ++j) {
@@ -48,53 +89,94 @@ public class BasketballGame {
 
 //                System.out.println(String.format("%s %d %d", name, shotPerc, height));
 
+                // expression for absolute ordering
                 players.put(-(shotPerc*(maxHeight + 1) + height), name);
             }
 
-            List<String> team1 = new ArrayList<String>();
-            List<String> team2 = new ArrayList<String>();
+            TreeSet<PlayerInfo> team1sitting = new TreeSet<PlayerInfo>();
+            TreeSet<PlayerInfo> team2sitting = new TreeSet<PlayerInfo>();
 
             boolean odd = true;
+            int priority = 0; // lowest pripority -> the best prority
 
+            // sit players to team1, team2
             for (Map.Entry<Integer, String> entry : players.entrySet()) {
                 if (odd) {
-                    team1.add(entry.getValue());
+                    team1sitting.add(new PlayerInfo(priority, entry.getValue()));
                 } else {
-                    team2.add(entry.getValue());
+                    team2sitting.add(new PlayerInfo(priority, entry.getValue()));
+                    ++priority;
                 }
 
                 odd = !odd;
             }
 
-            System.out.println(players);
-            System.out.println(team1);
-            System.out.println(team2);
+            TreeSet<PlayerInfo> team1playing = new TreeSet<PlayerInfo>();
+            TreeSet<PlayerInfo> team2playing = new TreeSet<PlayerInfo>();
 
-
-//            int team1idx = team1.size() - (M % team1.size()) - 1;
-//            int team2idx = team2.size() - (M % team2.size()) - 1;
-            int team1idx = M % team1.size();
-            int team2idx = M % team2.size();
-
-            // FIXME deleted names by using sets
-//            TreeSet<String> playingPlayers = new TreeSet<String>();
-            List<String> playingPlayers = new ArrayList<String>();
-
+            // initialization of playing players
             for (int j = 0; j != P; ++j) {
+                PlayerInfo first1 = team1sitting.first();
+                team1sitting.remove(first1);
+                team1playing.add(first1);
 
-                playingPlayers.add(team1.get(team1idx));
-                playingPlayers.add(team2.get(team2idx));
-
-                team1idx = (team1idx + 1) % team1.size();
-                team2idx = (team2idx + 1) % team2.size();
+                PlayerInfo first2 = team2sitting.first();
+                team2sitting.remove(first2);
+                team2playing.add(first2);
             }
 
-            Collections.sort(playingPlayers);
+//            System.out.println(String.format("T1 Starting players: playing: " + team1playing));
+//            System.out.println(String.format("T1 Starting players: sitting: " + team1sitting));
+
+            // minutes of playing game - making rotations
+            for (int j = 1; j <= M; ++j) {
+                // all playing players increase the time
+                for (PlayerInfo playerInfo : team1playing) {
+                    ++playerInfo.time;
+                }
+                // if there are some sitting players
+                if (team1sitting.size() > 0) {
+                    PlayerInfo first1sitting = team1sitting.first();
+                    team1sitting.remove(first1sitting);
+                    PlayerInfo last1playing = team1playing.last();
+                    team1playing.remove(last1playing);
+
+                    // change players
+                    team1playing.add(first1sitting);
+                    team1sitting.add(last1playing);
+                }
+
+                // the same for team2
+                for (PlayerInfo playerInfo : team2playing) {
+                    ++playerInfo.time;
+                }
+                // if there are some sitting players
+                if (team2sitting.size() > 0) {
+                    PlayerInfo first2sitting = team2sitting.first();
+                    team2sitting.remove(first2sitting);
+                    PlayerInfo last2playing = team2playing.last();
+                    team2playing.remove(last2playing);
+
+                    // change players
+                    team2playing.add(first2sitting);
+                    team2sitting.add(last2playing);
+                }
+
+//                System.out.println(String.format("T1 after " + j + "min: playing: " + team1playing));
+//                System.out.println(String.format("T1 after " + j + "min: sitting: " + team1sitting));
+            }
+
+            // need to use list to avoid deletion of the same player names
+            List<PlayerInfo> allPlayingPlayers = new ArrayList<PlayerInfo>();
+            allPlayingPlayers.addAll(team1playing);
+            allPlayingPlayers.addAll(team2playing);
+
+            Collections.sort(allPlayingPlayers, new PlayerNameComparator());
 
             System.out.print(String.format("Case #%d:", i));
-            for (String playingPlayer : playingPlayers) {
+            for (PlayerInfo playingPlayer : allPlayingPlayers) {
                 System.out.print(' ');
-                System.out.print(playingPlayer);
+                System.out.print(playingPlayer.name);
             }
             System.out.println();
         }
