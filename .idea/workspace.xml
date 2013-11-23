@@ -2,10 +2,408 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36747a93-7aa3-4735-aa05-0eb1f216e940" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasketballGame.output" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BasketballGame.input" afterPath="$PROJECT_DIR$/BasketballGame1.input" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasketballGame.input" afterPath="$PROJECT_DIR$/BasketballGame.input" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BasketballGame.java" afterPath="$PROJECT_DIR$/src/BasketballGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/-PAXP-deijE.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/-PAXP-deijE.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/-PAXP-deijE.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/0HZPW6-lhQu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/0HZPW6-lhQu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/0HZPW6-lhQu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/0pjqWL1NfkE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/0pjqWL1NfkE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/0pjqWL1NfkE.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1076461_1419170989_720738957_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1076461_1419170989_720738957_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1076461_1419170989_720738957_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1076807_1016658132_1326937565_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1076807_1016658132_1326937565_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1076807_1016658132_1326937565_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1085582_1241527812_1236432090_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1085582_1241527812_1236432090_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1085582_1241527812_1236432090_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1085886_1026425388_954611052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1085886_1026425388_954611052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1085886_1026425388_954611052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1085901_1629600145_1568110052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1085901_1629600145_1568110052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1085901_1629600145_1568110052_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1086856_123544811011218_1862977636_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1086856_123544811011218_1862977636_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1086856_123544811011218_1862977636_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1116324_100000293812055_1199078695_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1116324_100000293812055_1199078695_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1116324_100000293812055_1199078695_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1117245_738400363_44435915_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1117245_738400363_44435915_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1117245_738400363_44435915_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1117254_100000046536031_1877104813_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1117254_100000046536031_1877104813_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1117254_100000046536031_1877104813_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1117305_1813350796_1950367997_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1117305_1813350796_1950367997_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1117305_1813350796_1950367997_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1117388_100000616381112_1531623085_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1117388_100000616381112_1531623085_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1117388_100000616381112_1531623085_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1117659_1489261494_227300826_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1117659_1489261494_227300826_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1117659_1489261494_227300826_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1118694_600622724_812230405_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1118694_600622724_812230405_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1118694_600622724_812230405_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119155_1047946408_575868163_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119155_1047946408_575868163_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119155_1047946408_575868163_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119458_100000747505663_2142760530_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119458_100000747505663_2142760530_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119458_100000747505663_2142760530_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119458_100000747505663_2142760530_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119458_100000747505663_2142760530_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119458_100000747505663_2142760530_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119466_1551009722_1365164308_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119466_1551009722_1365164308_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119466_1551009722_1365164308_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119635_100006493085256_1163856373_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119635_100006493085256_1163856373_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119635_100006493085256_1163856373_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1119676_1708711807_1183515934_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1119676_1708711807_1183515934_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1119676_1708711807_1183515934_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1452578_10201880710453361_661761070_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1452578_10201880710453361_661761070_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1452578_10201880710453361_661761070_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1460236_10152397595468642_1278890669_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1460236_10152397595468642_1278890669_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1460236_10152397595468642_1278890669_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/1467433_707226365956839_348760397_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/1467433_707226365956839_348760397_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/1467433_707226365956839_348760397_n.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/186175_100003584385632_138454271_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/186175_100003584385632_138454271_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/186175_100003584385632_138454271_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/186544_1117640446_222618496_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/186544_1117640446_222618496_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/186544_1117640446_222618496_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/188073_107669509413631_1745068102_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/188073_107669509413631_1745068102_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/188073_107669509413631_1745068102_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/195664_100000486864531_830509236_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/195664_100000486864531_830509236_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/195664_100000486864531_830509236_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/195664_100000486864531_830509236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/195664_100000486864531_830509236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/195664_100000486864531_830509236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/203071_100000370721002_510386750_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/203071_100000370721002_510386750_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/203071_100000370721002_510386750_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/211229_1403457455_1698837532_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/211229_1403457455_1698837532_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/211229_1403457455_1698837532_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/211872_1057596782_2035294935_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/211872_1057596782_2035294935_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/211872_1057596782_2035294935_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/260708_1619346493_857636309_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/260708_1619346493_857636309_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/260708_1619346493_857636309_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/260865_100001075119039_1867013167_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/260865_100001075119039_1867013167_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/260865_100001075119039_1867013167_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/273316_1425727366_2081329523_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/273316_1425727366_2081329523_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/273316_1425727366_2081329523_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/273581_1793452922_3956236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/273581_1793452922_3956236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/273581_1793452922_3956236_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/273794_100000012111774_1591680448_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/273794_100000012111774_1591680448_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/273794_100000012111774_1591680448_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/273998_1570451544_1621121880_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/273998_1570451544_1621121880_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/273998_1570451544_1621121880_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/274298_1051114079_652711125_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/274298_1051114079_652711125_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/274298_1051114079_652711125_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/274487_1163508002_1207461345_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/274487_1163508002_1207461345_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/274487_1163508002_1207461345_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/274955_1402600922_3018062_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/274955_1402600922_3018062_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/274955_1402600922_3018062_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/275246_1379274813_2145038779_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/275246_1379274813_2145038779_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/275246_1379274813_2145038779_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/275472_520792778_1672961489_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/275472_520792778_1672961489_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/275472_520792778_1672961489_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/275986_1610717497_2048068714_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/275986_1610717497_2048068714_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/275986_1610717497_2048068714_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/276136_594023267_5535785_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/276136_594023267_5535785_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/276136_594023267_5535785_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/368867_1422475339_1494484900_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/368867_1422475339_1494484900_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/368867_1422475339_1494484900_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/369142_1132580778_508593117_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/369142_1132580778_508593117_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/369142_1132580778_508593117_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/370613_1393153472_185915469_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/370613_1393153472_185915469_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/370613_1393153472_185915469_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/370828_100000887680445_248410300_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/370828_100000887680445_248410300_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/370828_100000887680445_248410300_q(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/370828_100000887680445_248410300_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/370828_100000887680445_248410300_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/370828_100000887680445_248410300_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/370838_1010287250_1913521314_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/370838_1010287250_1913521314_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/370838_1010287250_1913521314_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/370919_1467621556_1503688248_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/370919_1467621556_1503688248_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/370919_1467621556_1503688248_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/371302_1672758983_492584868_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/371302_1672758983_492584868_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/371302_1672758983_492584868_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/372688_1046598850_847913725_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/372688_1046598850_847913725_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/372688_1046598850_847913725_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/3P-T4EMBYcD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/3P-T4EMBYcD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/3P-T4EMBYcD.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/41541_1304860828_861013_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/41541_1304860828_861013_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/41541_1304860828_861013_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/41675_1668086357_1886179647_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/41675_1668086357_1886179647_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/41675_1668086357_1886179647_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/41758_1287831777_9656_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/41758_1287831777_9656_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/41758_1287831777_9656_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/49068_1351282339_5190_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/49068_1351282339_5190_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/49068_1351282339_5190_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/572237_1055097604_655925648_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/572237_1055097604_655925648_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/572237_1055097604_655925648_q.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/998638_572069319513991_1041856936_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/998638_572069319513991_1041856936_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/998638_572069319513991_1041856936_t.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/9VLw9RbYNlj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/9VLw9RbYNlj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/9VLw9RbYNlj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/F7kk7-cjEKk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/F7kk7-cjEKk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/F7kk7-cjEKk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/GHlTzk5gu32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/GHlTzk5gu32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/GHlTzk5gu32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/GsNJNwuI-UM.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/GsNJNwuI-UM.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/GsNJNwuI-UM.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/OeeXwRJAXVK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/OeeXwRJAXVK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/OeeXwRJAXVK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/VoafzBvncKN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/VoafzBvncKN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/VoafzBvncKN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/drP8vlvSl_8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/drP8vlvSl_8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/drP8vlvSl_8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/indicator_blue_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/indicator_blue_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/indicator_blue_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/jKEcVPZFk-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/jKEcVPZFk-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/jKEcVPZFk-2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/qdqt65g8pH8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/qdqt65g8pH8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/qdqt65g8pH8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/-k9bkwUX5WY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/-k9bkwUX5WY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/-k9bkwUX5WY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/0o5VL9eMFvS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/0o5VL9eMFvS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/0o5VL9eMFvS.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/2gY7K4SMw5O.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/2gY7K4SMw5O.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/2gY7K4SMw5O.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/47GBarKtHct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/47GBarKtHct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/47GBarKtHct.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/4hmnu9aU8r0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/4hmnu9aU8r0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/4hmnu9aU8r0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/5N-ug6S3FWe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/5N-ug6S3FWe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/5N-ug6S3FWe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/6fEi2KcmLPN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/6fEi2KcmLPN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/6fEi2KcmLPN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/7o1U0txkXq4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/7o1U0txkXq4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/7o1U0txkXq4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/8-KtIg5lX6u.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/8-KtIg5lX6u.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/8-KtIg5lX6u.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/BraILklg7c4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/BraILklg7c4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/BraILklg7c4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/D5CTRo9tTev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/D5CTRo9tTev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/D5CTRo9tTev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/DN-5-HFjf_C.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/DN-5-HFjf_C.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/DN-5-HFjf_C.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/DNg2LP2RqK0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/DNg2LP2RqK0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/DNg2LP2RqK0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/GlJxXf9vqQg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/GlJxXf9vqQg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/GlJxXf9vqQg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/HKmMhVYuMv-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/HKmMhVYuMv-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/HKmMhVYuMv-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/J-ix5YT1Wkl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/J-ix5YT1Wkl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/J-ix5YT1Wkl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/J0XoH-oIIGN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/J0XoH-oIIGN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/J0XoH-oIIGN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/J3b3JV6kLm7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/J3b3JV6kLm7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/J3b3JV6kLm7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/KkeeWcGjtrJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/KkeeWcGjtrJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/KkeeWcGjtrJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/NYmBLUXcxnJ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/NYmBLUXcxnJ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/NYmBLUXcxnJ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/NgffLb6l0WN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/NgffLb6l0WN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/NgffLb6l0WN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/O95xaVezF_i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/O95xaVezF_i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/O95xaVezF_i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/Ot9mg-zFazS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/Ot9mg-zFazS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/Ot9mg-zFazS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/RQ1WKK_T21e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/RQ1WKK_T21e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/RQ1WKK_T21e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/UwhE7SfZYKt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/UwhE7SfZYKt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/UwhE7SfZYKt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/VW_UmSNRFbv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/VW_UmSNRFbv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/VW_UmSNRFbv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/VZXP7-JGvet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/VZXP7-JGvet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/VZXP7-JGvet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/WmQx82eeTbA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/WmQx82eeTbA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/WmQx82eeTbA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/XdF2Nyyd7dC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/XdF2Nyyd7dC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/XdF2Nyyd7dC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/ZzWJvPBz31r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/ZzWJvPBz31r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/ZzWJvPBz31r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/acfxm9L0ram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/acfxm9L0ram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/acfxm9L0ram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/cAfshGs9QR9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/cAfshGs9QR9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/cAfshGs9QR9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/dWI665iEKEU.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/dWI665iEKEU.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/dWI665iEKEU.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/eJMINSd5Zmc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/eJMINSd5Zmc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/eJMINSd5Zmc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/eLzfxqiSla1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/eLzfxqiSla1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/eLzfxqiSla1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/ewqGDOO_jlM.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/ewqGDOO_jlM.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/ewqGDOO_jlM.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/fAKtSFn2q8R.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/fAKtSFn2q8R.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/fAKtSFn2q8R.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/fTs2M55KcYt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/fTs2M55KcYt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/fTs2M55KcYt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/h3_qNtLlfuH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/h3_qNtLlfuH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/h3_qNtLlfuH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/h5S7LtzYOZJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/h5S7LtzYOZJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/h5S7LtzYOZJ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/hzpYOd-vDcz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/hzpYOd-vDcz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/hzpYOd-vDcz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/imHVq4AcTNR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/imHVq4AcTNR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/imHVq4AcTNR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/m3IKRhDuDLe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/m3IKRhDuDLe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/m3IKRhDuDLe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/mt60G-nb4Qy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/mt60G-nb4Qy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/mt60G-nb4Qy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/omPVn8W5ExZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/omPVn8W5ExZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/omPVn8W5ExZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/p5oYxj1SnL-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/p5oYxj1SnL-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/p5oYxj1SnL-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/qTUpm8fjgS-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/qTUpm8fjgS-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/qTUpm8fjgS-.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/rFvqgT0qi1E.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/rFvqgT0qi1E.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/rFvqgT0qi1E.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/rSDaD-nMmbw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/rSDaD-nMmbw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/rSDaD-nMmbw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/ryzUOAm9yzR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/ryzUOAm9yzR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/ryzUOAm9yzR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/t5Oe5s4YkeY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/t5Oe5s4YkeY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/t5Oe5s4YkeY.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/tDCrrONTlrp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/tDCrrONTlrp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/tDCrrONTlrp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/vHHq8rseiTg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/vHHq8rseiTg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/vHHq8rseiTg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/w2WF7sbxJGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/w2WF7sbxJGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/w2WF7sbxJGL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/wyUJpAs1Jud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/wyUJpAs1Jud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/wyUJpAs1Jud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/x7XV8I8JIEL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/x7XV8I8JIEL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/x7XV8I8JIEL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/y1QehwBu-Vl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/y1QehwBu-Vl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/y1QehwBu-Vl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/zYq4JX-ev52.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/zYq4JX-ev52.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/zYq4JX-ev52.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Basketball Game_files/zxZVfMo3n8P.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Square Detector_files/zxZVfMo3n8P.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Facebook Hacker Cup  Tennison_files/zxZVfMo3n8P.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hackercup2014.iws" />
@@ -14,7 +412,7 @@
     <file path="/Tennison.java" changelist="36747a93-7aa3-4735-aa05-0eb1f216e940" time="1385131416273" ignored="false" />
     <file path="/BasketballGame.java" changelist="36747a93-7aa3-4735-aa05-0eb1f216e940" time="1385236933553" ignored="false" />
     <file path="/SquareDetector.input" changelist="36747a93-7aa3-4735-aa05-0eb1f216e940" time="1385165566481" ignored="false" />
-    <file path="/Dummy.txt" changelist="36747a93-7aa3-4735-aa05-0eb1f216e940" time="1385235907594" ignored="false" />
+    <file path="/Dummy.txt" changelist="36747a93-7aa3-4735-aa05-0eb1f216e940" time="1385237241777" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,141 +472,34 @@
     <favorites_list name="hackercup2014" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.69279855">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="SquareDetector.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/SquareDetector.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="139" column="95" selection-start="4867" selection-end="4950" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SquareDetector.input" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SquareDetector.input">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="261" column="20" selection-start="4450" selection-end="4450" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Integer.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="jar:///opt/java/src.zip!/java/lang/Integer.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="526" column="0" selection-start="19370" selection-end="19370" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BasketballGame.java" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/BasketballGame.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="27" selection-start="168" selection-end="182" vertical-scroll-proportion="0.45614034">
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2312#2329#0" expanded="true" />
-                    <element signature="e#2911#2923#0" expanded="true" />
-                    <element signature="e#2985#2997#0" expanded="true" />
-                    <element signature="e#3590#3602#0" expanded="true" />
-                    <element signature="e#3664#3676#0" expanded="true" />
-                    <element signature="e#6088#6100#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BasketballGame.input" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/BasketballGame.input">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="340" column="11" selection-start="4503" selection-end="4503" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BasketballGame.output" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/BasketballGame.output">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="49" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TreeSet.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="jar:///opt/java/src.zip!/java/util/TreeSet.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="274" column="19" selection-start="10656" selection-end="10656" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Comparator.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="jar:///opt/java/src.zip!/java/util/Comparator.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="101" column="17" selection-start="3985" selection-end="3985" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tennison.java" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Tennison.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="SquareDetector1.input" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SquareDetector1.input">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="4" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SquareDetector.output" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SquareDetector.output">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="19" column="12" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BasketballGame1.input" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/BasketballGame1.input">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="2" selection-start="4" selection-end="4" vertical-scroll-proportion="0.041935485">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="SquareDetector2.input" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SquareDetector2.input">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="1" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="SquareDetector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SquareDetector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="122" column="85" selection-start="4400" selection-end="4400" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasketballGame.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BasketballGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="144" column="63" selection-start="4990" selection-end="4990" vertical-scroll-proportion="0.0033333334">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2312#2329#0" expanded="true" />
+                <element signature="e#2911#2923#0" expanded="true" />
+                <element signature="e#2985#2997#0" expanded="true" />
+                <element signature="e#3590#3602#0" expanded="true" />
+                <element signature="e#3664#3676#0" expanded="true" />
+                <element signature="e#6088#6100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -323,6 +614,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackercup2014" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerCup11_2013QR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -533,7 +838,11 @@
       <created>1385214486160</created>
       <updated>1385214486160</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BasketballGame done with rotations, code submited to fb page">
+      <created>1385237251473</created>
+      <updated>1385237251473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -557,8 +866,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19692533" sideWeight="0.54615384" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45384616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19692533" sideWeight="0.54615384" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45384616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -607,7 +916,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Incorrect solution for BasketballGame - it is not such easy as I thought" />
+    <option name="LAST_COMMIT_MESSAGE" value="BasketballGame done with rotations, code submited to fb page" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -623,6 +932,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Project structure + SquareDetector done + input, output files" />
     <MESSAGE value="Incorrect solution for BasketballGame - it is not such easy as I thought" />
+    <MESSAGE value="BasketballGame done with rotations, code submited to fb page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -648,7 +958,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SquareDetector2.input">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="1" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0">
+        <state line="1" column="1" selection-start="3" selection-end="3" vertical-scroll-proportion="0.0208">
           <folding />
         </state>
       </provider>
@@ -688,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SquareDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="95" selection-start="4867" selection-end="4950" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///opt/java/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="20" selection-start="2888" selection-end="2888" vertical-scroll-proportion="-1.6413503" />
@@ -716,7 +1019,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BasketballGame1.input">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="2" selection-start="4" selection-end="4" vertical-scroll-proportion="0.041935485">
+        <state line="1" column="2" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0208">
           <folding />
         </state>
       </provider>
@@ -735,9 +1038,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SquareDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="85" selection-start="4400" selection-end="4400" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasketballGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="168" selection-end="182" vertical-scroll-proportion="0.45614034">
+        <state line="144" column="63" selection-start="4990" selection-end="4990" vertical-scroll-proportion="0.0033333334">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2312#2329#0" expanded="true" />

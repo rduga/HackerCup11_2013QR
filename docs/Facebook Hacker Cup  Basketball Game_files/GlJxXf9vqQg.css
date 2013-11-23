@@ -1,0 +1,14 @@
+/*!CK:3506715944!*//*1385067696,173217843*/
+
+.example_inputs{float:left;width:45%}
+.example_outputs{width:45%;float:right}
+.example_inputs pre{margin:0}
+.example_outputs pre{margin:0}
+.hidden_element{display:none}
+.left_label{float:left;margin-left:15px}
+.right_label{float:right;margin-right:15px}
+.hackerCupLicenseDiv{text-align:center}
+.hackerCupLicenseImage{border-width:0}
+
+#bootloader_XuGJT { height: 42px; }
+.bootloader_XuGJT { display:block !important; }
